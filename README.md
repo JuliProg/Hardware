@@ -15,16 +15,4 @@ After the FIRST start of JuliProg, a new USB device USB \ VID_04B4 & PID_2009 wi
 In the device properties -> Power Management tab. Uncheck the item
 "Allow the computer to turn off this device to save power".
 
----------------------------------------------------------------------------------------
-Added Gerber files for self-manufacturing PCB (NAND_Tsop48 folder).Created by rus89 on https://remont-aud.net/forum
-
-![](https://raw.githubusercontent.com/JuliProg/Wiki/master/img/NAND%20Tsop48_small.jpg) 
-
-Added Gerber files for self-manufacturing PCB (DIP48_Tsop48 folder).Created by rus89 on https://remont-aud.net/forum
-
-![](https://raw.githubusercontent.com/JuliProg/Wiki/master/img/DIP48ToTSOP48_small.jpg)
-
-Added Gerber files for self-manufacturing PCB (BGA63_NAND folder).Created by rus89 on https://remont-aud.net/forum
-
-![](https://raw.githubusercontent.com/JuliProg/Wiki/master/img/BGA63%20NAND%20small.jpg)
 
