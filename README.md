@@ -1,3 +1,5 @@
+# Critical error in the circuit , WP # must be connected to PA6
+
 # Hardware
 Hardware for JuliProg
 
