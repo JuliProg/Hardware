@@ -24,3 +24,7 @@ Added Gerber files for self-manufacturing PCB (DIP48_Tsop48 folder).Created by r
 
 ![](https://raw.githubusercontent.com/JuliProg/Wiki/master/img/DIP48ToTSOP48_small.jpg)
 
+Added Gerber files for self-manufacturing PCB (BGA63_NAND folder).Created by rus89 on https://remont-aud.net/forum
+
+![](https://raw.githubusercontent.com/JuliProg/Wiki/master/img/BGA63%20NAND%20small.jpg)
+
