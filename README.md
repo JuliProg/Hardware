@@ -17,8 +17,10 @@ In the device properties -> Power Management tab. Uncheck the item
 
 ---------------------------------------------------------------------------------------
 Added Gerber files for self-manufacturing PCB (NAND_Tsop48 folder).Created by rus89 on https://remont-aud.net/forum
+
 ![](https://raw.githubusercontent.com/JuliProg/Wiki/master/img/NAND%20Tsop48.jpg)  
 
 Added Gerber files for self-manufacturing PCB (DIP48_Tsop48 folder).Created by rus89 on https://remont-aud.net/forum
+
 ![](https://raw.githubusercontent.com/JuliProg/Wiki/master/img/DIP48ToTSOP48_small.jpg)
 
