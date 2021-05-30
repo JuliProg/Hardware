@@ -18,3 +18,27 @@ In the device properties -> Power Management tab. Uncheck the item
 "Allow the computer to turn off this device to save power".
 
 
+# PCB
+
+
+The archives contain gerber files for self-production of adapters, designed by user rus89 on
+https://remont-aud.net/
+
+---
+
+TSOP48 = TSOP48_gerber.zip
+
+![TSOP48 = TSOP48_gerber.zip](https://raw.githubusercontent.com/JuliProg/Wiki/master/img/TSOP48small.jpg)
+
+---
+
+DIP48 to TSOP48 = DIPtoTSOP48.zip
+
+![DIP48 to TSOP48 = DIPtoTSOP48.zip](https://raw.githubusercontent.com/JuliProg/Wiki/master/img/DIPtoTSOP48small.jpg)
+
+---
+
+BGA63 = bga63_gerber.zip
+
+![BGA63](https://raw.githubusercontent.com/JuliProg/Wiki/master/img/BGAsmall.jpg)
+
