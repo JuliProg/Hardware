@@ -21,8 +21,7 @@ In the device properties -> Power Management tab. Uncheck the item
 # PCB
 
 
-The archives contain gerber files for self-production of adapters, designed by user rus89 on
-https://remont-aud.net/
+The archives contain gerber files for self-production of adapters
 
 ---
 
